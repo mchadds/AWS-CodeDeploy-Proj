@@ -4,7 +4,7 @@ Automated deployment of simple webpage project using CodeDeploy
 ## Description
 Through bash commands and [appspec.yaml](https://github.com/mchadds/AWS-CodeDeploy-Proj/blob/main/appspec.yaml) automated deployment of a simple webpage project was achieved
 
-## Deplyment Instructions
+## Deployment Instructions
 Detailed deployment template found in [appspec.yaml](https://github.com/mchadds/AWS-CodeDeploy-Proj/blob/main/appspec.yaml): 
 ```yaml
 version: 0.0
